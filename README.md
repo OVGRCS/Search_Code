@@ -28,5 +28,10 @@ A continuación muestro un listado comparativo de nodos visitados en ambos méto
     <td>TN
     <td>45
     <td>40
+      
+      
+ Aquí dejo la imagen correspondiente a las rutas
+ 
+ ![alt text](imagen.png)
 
 
