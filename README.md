@@ -30,7 +30,7 @@ A continuación muestro un listado comparativo de nodos visitados en ambos méto
     <td>40
 </table>      
       
-Aquí dejo la imagen correspondiente a las rutas
+Mapeado de rutas:
  
 ![alt text](imagen.png)
 
