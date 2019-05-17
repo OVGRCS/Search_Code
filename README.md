@@ -8,3 +8,25 @@ Ramificación y acotación con subestimación: En el archivo utils.py podemos en
 
 A continuación muestro un listado comparativo de nodos visitados en ambos métodos de búsqueda.
 
+<table>
+  <th>Ruta
+  <th>Ramificación y acotación
+  <th>Ramificación y acotación con subestimación
+  <tr>
+    <td>OE
+    <td>40
+    <td>15
+  <tr>
+    <td>AB
+    <td>24
+    <td>6
+  <tr>
+    <td>AC
+    <td>20
+    <td>7
+  <tr>
+    <td>TN
+    <td>45
+    <td>40
+
+
